@@ -4,7 +4,11 @@
   <url>
     <loc>https://example.org/categories/</loc>
   </url><url>
+    <loc>https://example.org/manifest/index.json</loc>
+  </url><url>
     <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/search/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
   </url>
